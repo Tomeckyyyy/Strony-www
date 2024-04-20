@@ -1,0 +1,7 @@
+logo strony logo boru białe
+zrobić ciemniejsze tło
+galeria zdjęć (dorobienie w bazie danych 10 kolumn ze zdjęciami)
+ładny interfejs logowania
+zeby był błąd kiedy chcemy wbić na cms.php bez logowania
+
+footer logo zhr lilijka

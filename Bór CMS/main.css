@@ -1,0 +1,30 @@
+body
+{
+	background-image: url("img/tło.png");
+	margin:0px;
+}
+
+.navbar
+{
+	background-color:#83aa2b;
+}
+
+.navbar-brand
+{
+	margin-left: 30px;
+}
+
+.article-title
+{
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 15px;
+}
+
+#footer
+{
+	text-align:center;
+	clear:both;
+	margin-bottom:30px;
+}
