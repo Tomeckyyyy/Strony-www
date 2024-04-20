@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+ 
+.icon-youtube:before { content: '\55'; } /* 'U' */
+.icon-desktop:before { content: '\f108'; } /* '' */
+.icon-graduation-cap:before { content: '\f19d'; } /* '' */
+.icon-paper-plane:before { content: '\f1d8'; } /* '' */
+.icon-paper-plane-empty:before { content: '\f1d9'; } /* '' */
+.icon-facebook:before { content: '\f300'; } /* '' */
+.icon-twitter-bird:before { content: '\f303'; } /* '' */
+.icon-googleplus-rect:before { content: '\f309'; } /* '' */
+.icon-user:before { content: '👤'; } /* '\1f464' */
